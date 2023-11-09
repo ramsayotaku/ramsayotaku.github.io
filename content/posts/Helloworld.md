@@ -8,5 +8,3 @@ draft = false
 
 This is for the testing purpose.
 
-### Riya Bhandari
-She is a renouned health journalist in Nepal. She has written more than 1600 articles about health and healthy habits.
